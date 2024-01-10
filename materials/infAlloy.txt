@@ -1,0 +1,3 @@
+infAlloy
+1.0 compRed
+1.0 irIng

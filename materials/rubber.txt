@@ -1,0 +1,2 @@
+rubber
+0.33333334 RESIN

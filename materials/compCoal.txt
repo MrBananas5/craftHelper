@@ -1,0 +1,2 @@
+compCoal
+0.125 COAL

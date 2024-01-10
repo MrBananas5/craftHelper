@@ -1,0 +1,2 @@
+brick
+1.0 CLAY

@@ -1,0 +1,3 @@
+stoneGear
+4.0 stone
+1.0 woodGear

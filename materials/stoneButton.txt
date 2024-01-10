@@ -1,0 +1,2 @@
+stoneButton
+1.0 stone

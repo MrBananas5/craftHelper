@@ -1,0 +1,2 @@
+compDiamond
+0.125 DIAMOND

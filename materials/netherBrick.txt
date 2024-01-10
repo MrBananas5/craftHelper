@@ -1,0 +1,2 @@
+netherBrick
+1.0 NETHERRACK
